@@ -14,7 +14,6 @@ client = genai.Client()
     # use click up as a collection
     # Use mongo db
     # User --> providers --> structerd enum list --> 
-    # AI complex 
 
 
 
