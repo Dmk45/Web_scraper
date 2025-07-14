@@ -1,0 +1,10 @@
+provider,submit method,req num,robot check,Physcial req,num clicks,acount req,add,url
+azwater,website,27,Y,Y,1,N,N,https://www.azwater.com/start-service/
+Berkeley Electric Cooperative,website,11 >=,N,Y,3,N,Y,https://berkeleyelectric.zohodesk.com/portal/en/kb/articles/residential-application-for-service
+BGE,website,6,N,Y,3,N,N,https://secure.bge.com/CustomerServices/service/landing
+City of Phoenix,N/A,N/A,N,Y,N/A,N,Y,https://www.phoenix.gov/administration/departments/waterservices.html
+Energy United,website,10>,Y,Y,1,N,N,https://www.energyunited.com/individual-energyunited-application/
+APS,website,10>=,N,Y,3,N,N,https://www.aps.com/en/Residential/Account/Start-Stop-and-Move-Service/Start-Service
+Aqua,website,23,,N,1,N,N,https://www.aquawater.com/moving-how-start-service
+Carolina Water Service,website,7,Y,Y,2,Y,Y,https://account.myutility.us/account/contact-us.aspx?key=MJPBQkZYTFuc4EfZSrrefA==
+City of baltamore,In person,10>,N,N/a,1,N,Y,https://bcrp.baltimorecity.gov/sites/default/files/City%20Services%20and%20Equipment%20app%20-%206-18.pdf
