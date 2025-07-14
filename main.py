@@ -50,6 +50,6 @@ class main:
         print(self.parse_page())
         self.close()
         
-main_instance = main(r'C:\Users\Thomas\test CRACK\Data collection - Sheet1.csv')
+main_instance = main(r'./Sheet1.csv')
 main_instance.execute()
 
